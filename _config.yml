@@ -7,13 +7,13 @@ title: "{{site_name}}"
 subtitle: ""
 description: ""
 keywords:
-author: John Doe
+author: "{{author}}"
 language: en
 timezone: ""
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://{{github_username}}.github.io/{{site_name}}
+url: https://{{github_username}}.github.io/{{site_repo_name}}
 root: /
 permalink: :title/
 permalink_defaults:
